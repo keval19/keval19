@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @keval19
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me E-mail:kevaltaank52@gmail.com
 
 <!---
